@@ -6,3 +6,6 @@ public class App {
         FlappyBird flappy = new FlappyBird();
     }
 }
+
+//https://www.youtube.com/watch?v=Xw2MEG-FBsE
+//Video för Lajnus
